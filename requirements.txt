@@ -1,0 +1,14 @@
+MySQL-python==1.2.5
+argparse==1.2.1
+beautifulsoup4==4.3.2
+httplib2==0.9
+pygraphml==1.0
+python-dateutil==2.2
+pytz==2014.4
+requests==2.3.0
+selenium==2.43.0
+six==1.8.0
+termcolor==1.1.0
+termcolors==0.1.0
+tzlocal==1.1.1
+wsgiref==0.1.2
