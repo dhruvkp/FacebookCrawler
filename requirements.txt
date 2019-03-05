@@ -5,7 +5,7 @@ httplib2==0.9
 pygraphml==1.0
 python-dateutil==2.2
 pytz==2014.4
-requests==2.3.0
+requests==2.20.0
 selenium==2.43.0
 six==1.8.0
 termcolor==1.1.0
